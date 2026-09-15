@@ -1,0 +1,489 @@
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta
+    name="description"
+    content="Ambreen Fatima — Learning Specialist in Psychology and Educational Technology. Instructional design, digital learning, learning analytics, and educational research."
+  >
+
+  <title>Ambreen Fatima — Learning Specialist</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Instrument+Serif:ital@0;1&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="src/styles/tokens.css">
+  <link rel="stylesheet" href="src/styles/main.css">
+</head>
+
+<body>
+
+  <!-- Loader -->
+  <div class="loader" id="loader" aria-hidden="true">
+    <div class="loader-inner">
+      <div class="loader-logo">AF<span>·</span></div>
+      <div class="loader-bar">
+        <div class="loader-fill" id="loaderFill"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="noise" aria-hidden="true"></div>
+
+  <div class="cursor-dot" id="cursorDot" aria-hidden="true"></div>
+  <div class="cursor-ring" id="cursorRing" aria-hidden="true"></div>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+
+  <!-- ─── Header ─────────────────────────────────────────────── -->
+  <header class="site-header">
+
+    <a class="wordmark" href="#top">
+      AF<span>·</span>
+    </a>
+
+    <nav id="siteNav">
+      <a href="#work">Work</a>
+      <a href="#experience">Experience</a>
+      <a href="#skills">Skills</a>
+      <a href="#approach">Thinking</a>
+    </nav>
+
+    <button
+      class="theme-toggle"
+      id="themeToggle"
+      aria-label="Toggle theme"
+    >
+      ◐
+    </button>
+
+  </header>
+
+
+  <main id="top">
+
+    <!-- ─── Hero ────────────────────────────────────────────── -->
+    <section class="hero" id="heroSection">
+
+      <canvas
+        class="hero-canvas"
+        id="heroCanvas"
+        aria-hidden="true"
+      ></canvas>
+
+      <div class="hero-inner">
+
+        <!-- Left: headline + meta -->
+        <div class="hero-left">
+
+          <div class="hero-tag">
+            <span class="pulse"></span>
+            <span id="availability"></span>
+            <span class="hero-location">· Saarbrücken</span>
+          </div>
+
+          <h1 class="hero-h1">
+
+            <span class="h1-a">I design</span>
+
+            <span class="h1-b">learning</span>
+
+            <span class="h1-c">
+              <span class="rotator-wrap">
+                <span
+                  class="rotator-word"
+                  id="rotatorWord"
+                >
+                  experiences.
+                </span>
+              </span>
+            </span>
+
+          </h1>
+
+          <p class="hero-intro" id="intro"></p>
+
+          <a class="hero-cta" href="#work">
+            <span>See selected work</span>
+            <span class="cta-arrow">↓</span>
+          </a>
+
+        </div>
+
+
+        <!-- Right: art + stats -->
+        <div class="hero-right">
+
+          <div class="hero-art" aria-hidden="true">
+
+            <div class="art-ring ring-one"></div>
+            <div class="art-ring ring-two"></div>
+
+            <div class="art-core">
+              <span>01</span>
+              <strong>
+                learn<br>
+                by<br>
+                doing
+              </strong>
+            </div>
+
+            <div class="art-pip pip-a"></div>
+            <div class="art-pip pip-b"></div>
+            <div class="art-pip pip-c"></div>
+
+          </div>
+
+          <div
+            class="hero-stats"
+            id="heroStats"
+          ></div>
+
+        </div>
+
+      </div>
+
+
+      <!-- Skills ticker -->
+      <div
+        class="hero-ticker"
+        aria-hidden="true"
+      >
+        <div
+          class="ticker-track"
+          id="tickerTrack"
+        ></div>
+      </div>
+
+    </section>
+
+
+    <!-- ─── Work ─────────────────────────────────────────────── -->
+    <section
+      class="site-section work-section"
+      id="work"
+    >
+
+      <div class="section-head wrap">
+
+        <span class="section-num">01</span>
+
+        <h2 class="section-title">
+          Selected work
+        </h2>
+
+        <p class="section-sub">
+          Learning experiences at the intersection of psychology,
+          technology, data, and instructional design.
+        </p>
+
+      </div>
+
+      <div
+        class="work-list wrap"
+        id="workList"
+      ></div>
+
+    </section>
+
+
+    <!-- ─── Experience ──────────────────────────────────────── -->
+    <section
+      class="site-section exp-section"
+      id="experience"
+    >
+
+      <div class="section-head wrap">
+
+        <span class="section-num">02</span>
+
+        <h2 class="section-title">
+          Experience
+        </h2>
+
+        <p class="section-sub">
+          From classroom teaching to digital learning,
+          educational technology, and behavioral research.
+        </p>
+
+      </div>
+
+      <div
+        class="exp-list wrap"
+        id="expList"
+      ></div>
+
+    </section>
+
+
+    <!-- ─── Skills ──────────────────────────────────────────── -->
+    <section
+      class="site-section skills-section"
+      id="skills"
+    >
+
+      <div class="section-head wrap">
+
+        <span class="section-num">03</span>
+
+        <h2 class="section-title">
+          Capabilities
+        </h2>
+
+        <p class="section-sub">
+          What I bring to learning, research, and educational technology.
+        </p>
+
+      </div>
+
+      <div
+        class="skills-rings wrap"
+        id="skillsGrid"
+      ></div>
+
+    </section>
+
+
+    <!-- ─── Principles ──────────────────────────────────────── -->
+    <section
+      class="site-section approach-section"
+      id="approach"
+    >
+
+      <div class="section-head wrap">
+
+        <span class="section-num">04</span>
+
+        <h2 class="section-title">
+          How I think
+        </h2>
+
+      </div>
+
+      <div
+        class="principles-grid wrap"
+        id="principles"
+      ></div>
+
+    </section>
+
+
+    <!-- ─── Testimonials ────────────────────────────────────── -->
+    <section
+      class="testimonials-section"
+      id="testimonials"
+    >
+
+      <div class="wrap">
+
+        <div
+          class="testimonial-track"
+          id="testimonialTrack"
+        ></div>
+
+        <div class="testimonial-controls">
+
+          <button
+            class="t-btn"
+            id="tPrev"
+            aria-label="Previous"
+          >
+            ←
+          </button>
+
+          <div
+            class="t-dots"
+            id="tDots"
+          ></div>
+
+          <button
+            class="t-btn"
+            id="tNext"
+            aria-label="Next"
+          >
+            →
+          </button>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ─── Contact ─────────────────────────────────────────── -->
+    <section
+      class="contact-section"
+      id="contact"
+    >
+
+      <div class="contact-inner wrap">
+
+        <p class="contact-eyebrow">
+          Have a learning challenge?
+        </p>
+
+        <h2 class="contact-h2">
+          Let's build<br>
+          <em>something useful.</em>
+        </h2>
+
+        <a
+          class="contact-link"
+          id="emailLink"
+          href="mailto:amfa00003@uni-saarland.de"
+        >
+          amfa00003@uni-saarland.de
+          <span>↗</span>
+        </a>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- ─── Footer ──────────────────────────────────────────── -->
+  <footer class="site-footer wrap">
+
+    <span>
+      © <span id="year"></span> Ambreen Fatima
+    </span>
+
+    <span>
+      Learning Specialist · Saarbrücken
+    </span>
+
+    <a
+      id="linkedin"
+      href="https://linkedin.com/in/ambreenfatima"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      LinkedIn ↗
+    </a>
+
+  </footer>
+
+
+  <button
+    class="scroll-top"
+    id="scrollTop"
+    aria-label="Back to top"
+  >
+    ↑
+  </button>
+
+
+  <!-- Work modal -->
+  <div
+    class="modal"
+    id="modal"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="modalTitle"
+  >
+
+    <div class="modal-backdrop"></div>
+
+    <article class="modal-panel">
+
+      <button
+        class="modal-close"
+        id="modalClose"
+        aria-label="Close"
+      >
+        ×
+      </button>
+
+      <div class="modal-meta">
+
+        <span
+          class="modal-type"
+          id="modalType"
+        ></span>
+
+        <span
+          class="modal-year"
+          id="modalYear"
+        ></span>
+
+      </div>
+
+      <h2 id="modalTitle"></h2>
+
+      <p
+        class="modal-summary"
+        id="modalSummary"
+      ></p>
+
+      <div class="modal-blocks">
+
+        <div class="modal-block">
+
+          <span class="modal-block-label">
+            The challenge
+          </span>
+
+          <p id="modalChallenge"></p>
+
+        </div>
+
+
+        <div class="modal-block">
+
+          <span class="modal-block-label">
+            The approach
+          </span>
+
+          <p id="modalApproach"></p>
+
+        </div>
+
+      </div>
+
+
+      <div class="modal-footer-row">
+
+        <div>
+
+          <span class="modal-block-label">
+            Outcome
+          </span>
+
+          <div
+            class="modal-result-val"
+            id="modalResult"
+          ></div>
+
+        </div>
+
+        <div
+          class="modal-tags"
+          id="modalTags"
+        ></div>
+
+      </div>
+
+    </article>
+
+  </div>
+
+
+  <script
+    type="module"
+    src="src/js/main.js"
+  ></script>
+
+</body>
+</html>
+```

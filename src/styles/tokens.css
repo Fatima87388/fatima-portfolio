@@ -1,0 +1,79 @@
+/* ============================================================
+   DESIGN TOKENS — Dark Editorial palette
+   Default: dark. Toggle to light via .light class on <body>.
+   ============================================================ */
+:root {
+  /* ── Surfaces ─────────────────────────────────────────── */
+  --bg:      #0D0C0A;    /* main background */
+  --bg-2:    #141210;    /* slightly raised */
+  --bg-3:    #1C1A16;    /* cards / sections */
+  --fg:      #F0EAE0;    /* primary text */
+  --fg-2:    #C0BAB0;    /* secondary text */
+  --muted:   #706C66;    /* tertiary / placeholders */
+  --line:    #242118;    /* borders */
+
+  /* ── Accent — warm amber ──────────────────────────────── */
+  --accent:       #D4A068;
+  --accent-rgb:   212, 160, 104;
+  --accent-dark:  #A07040;
+  --accent-faint: rgba(212, 160, 104, 0.08);
+
+  /* ── Secondary — sage ─────────────────────────────────── */
+  --sage:      #7BAF8E;
+  --sage-rgb:  123, 175, 142;
+  --sage-faint:rgba(123, 175, 142, 0.08);
+
+  /* ── Work item hover tints ────────────────────────────── */
+  --tint-1: rgba(123, 175, 142, 0.12);  /* sage */
+  --tint-2: rgba(212, 160, 104, 0.12);  /* amber */
+  --tint-3: rgba(180, 130, 110, 0.12);  /* terracotta */
+
+  /* ── Contact section ──────────────────────────────────── */
+  --contact-bg:  #0A100D;  /* very dark green */
+  --contact-fg:  #E8E2D8;
+
+  /* ── Typography ───────────────────────────────────────── */
+  --font-sans:  'DM Sans', sans-serif;
+  --font-mono:  'DM Mono', monospace;
+  --font-serif: 'Instrument Serif', serif;
+
+  /* ── Shadows ──────────────────────────────────────────── */
+  --shadow:    0 12px 48px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 24px 80px rgba(0, 0, 0, 0.60);
+  --shadow-xl: 0 40px 120px rgba(0, 0, 0, 0.70);
+
+  /* ── Motion ───────────────────────────────────────────── */
+  --ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-out:    cubic-bezier(0.0, 0, 0.2, 1);
+  --t-fast: 0.18s;
+  --t-base: 0.35s;
+  --t-slow: 0.65s;
+
+  /* ── Layout ───────────────────────────────────────────── */
+  --wrap-max: 1200px;
+  --wrap-px:  48px;
+  --radius:   6px;
+}
+
+/* ── Light mode ─────────────────────────────────────────────── */
+.light {
+  --bg:      #F5F2EC;
+  --bg-2:    #EDE9E1;
+  --bg-3:    #E6E1D8;
+  --fg:      #1A1816;
+  --fg-2:    #3C3830;
+  --muted:   #8A8680;
+  --line:    #D8D4CC;
+  --accent:       #A07040;
+  --accent-rgb:   160, 112, 64;
+  --accent-faint: rgba(160, 112, 64, 0.07);
+  --sage:      #4E7E5E;
+  --sage-rgb:  78, 126, 94;
+  --tint-1: rgba(78, 126, 94,  0.08);
+  --tint-2: rgba(160, 112, 64, 0.08);
+  --tint-3: rgba(160, 80, 60,  0.08);
+  --contact-bg: #1A1916;
+  --shadow:    0 8px 32px rgba(26, 24, 22, 0.12);
+  --shadow-lg: 0 20px 60px rgba(26, 24, 22, 0.16);
+  --shadow-xl: 0 36px 96px rgba(26, 24, 22, 0.20);
+}

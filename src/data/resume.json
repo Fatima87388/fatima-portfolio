@@ -1,0 +1,148 @@
+{
+  "profile": {
+    "name": "Nadia Rahman",
+    "role": "Digital learning architect",
+    "location": "Berlin · available worldwide",
+    "availability": "Open to select collaborations",
+    "intro": "I design the systems, stories, and learning experiences that help people do better work.",
+    "email": "hello@nadia-rahman.com",
+    "linkedin": "https://www.linkedin.com/",
+    "stats": [
+      { "value": "9+", "label": "years in learning" },
+      { "value": "42k", "label": "learners reached" },
+      { "value": "18", "label": "systems shipped" }
+    ]
+  },
+  "expertise": [
+    "Learning strategy",
+    "L&D operations",
+    "EdTech ecosystems",
+    "Curriculum design",
+    "Change enablement",
+    "Learning analytics"
+  ],
+  "skills": [
+    {
+      "category": "Strategy",
+      "items": [
+        { "name": "Learning strategy", "level": 95 },
+        { "name": "L&D operations", "level": 90 },
+        { "name": "Change enablement", "level": 85 },
+        { "name": "Stakeholder alignment", "level": 88 }
+      ]
+    },
+    {
+      "category": "Design",
+      "items": [
+        { "name": "Instructional design", "level": 95 },
+        { "name": "Curriculum design", "level": 92 },
+        { "name": "UX writing", "level": 80 },
+        { "name": "Learning analytics", "level": 78 }
+      ]
+    },
+    {
+      "category": "Technology",
+      "items": [
+        { "name": "LMS platforms", "level": 90 },
+        { "name": "EdTech ecosystems", "level": 85 },
+        { "name": "Digital production", "level": 82 },
+        { "name": "Data & reporting", "level": 75 }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "period": "2022—now",
+      "company": "Northstar Learning · Berlin",
+      "title": "Head of Learning Operations",
+      "description": "Built the operating model for a distributed learning team: portfolio planning, vendor governance, learner insight loops, and a measurement practice that connected learning to business outcomes.",
+      "tags": ["Strategy", "Operations", "People"]
+    },
+    {
+      "period": "2019—22",
+      "company": "Open Pathways · Remote",
+      "title": "Learning Experience Lead",
+      "description": "Led a cross-functional team creating blended programs for 12,000+ professionals. Introduced a reusable design system and cut time-to-launch by 35%.",
+      "tags": ["Design systems", "Programs", "Research"]
+    },
+    {
+      "period": "2016—19",
+      "company": "Brightside EdTech · Amsterdam",
+      "title": "Instructional Designer",
+      "description": "Translated subject-matter expertise into active, accessible digital learning for a fast-growing education platform.",
+      "tags": ["Curriculum", "UX writing", "EdTech"]
+    }
+  ],
+  "work": [
+    {
+      "year": "2024",
+      "type": "Learning ecosystem",
+      "title": "The learning operating system",
+      "summary": "A practical blueprint for making learning visible, findable, and useful across a 600-person organization.",
+      "detail": "We mapped every learning touchpoint — from onboarding to leadership development — and redesigned the underlying operating model. The result was a single intake process, a shared measurement framework, and a team that finally felt coherent.",
+      "challenge": "Learning was fragmented across six tools, three teams, and two business units with no shared language or measurement.",
+      "approach": "Stakeholder interviews → service blueprint → operating model design → phased rollout with embedded champions.",
+      "result": "3x faster intake",
+      "color": "lavender",
+      "tags": ["Operations", "Strategy", "Systems"]
+    },
+    {
+      "year": "2023",
+      "type": "Digital academy",
+      "title": "From content library to practice lab",
+      "summary": "A cohort-based academy that helped new managers move from knowing the model to using it in the room.",
+      "detail": "Instead of building more content, we built a practice environment. Small cohorts, real scenarios, peer reflection, and manager check-ins at weeks three and six.",
+      "challenge": "Completion rates for self-paced manager training hovered at 23%. The content was sound — the format wasn't.",
+      "approach": "Learning audit → cohort design → facilitation guide → measurement framework → facilitator certification.",
+      "result": "92% completion",
+      "color": "peach",
+      "tags": ["Cohort design", "Management", "Facilitation"]
+    },
+    {
+      "year": "2022",
+      "type": "EdTech strategy",
+      "title": "A calmer tech stack",
+      "summary": "A vendor and platform rationalization that gave learners one coherent front door to development.",
+      "detail": "Eleven tools. Four overlapping platforms. Zero integration. We ran a vendor audit, defined a capability map, and negotiated a 28% cost reduction while improving the learner experience.",
+      "challenge": "Rapid EdTech adoption had created a fragmented ecosystem that nobody could navigate — learners or L&D teams.",
+      "approach": "Vendor audit → capability mapping → platform consolidation → change campaign → launch with embedded guides.",
+      "result": "−28% tool spend",
+      "color": "mint",
+      "tags": ["EdTech", "Vendor management", "UX"]
+    }
+  ],
+  "principles": [
+    {
+      "number": "01",
+      "title": "Make the invisible visible",
+      "text": "Good operations create the conditions for good learning — and make the value legible to everyone."
+    },
+    {
+      "number": "02",
+      "title": "Design for the next action",
+      "text": "Learning sticks when it connects to a real decision, conversation, or behavior."
+    },
+    {
+      "number": "03",
+      "title": "Leave things clearer",
+      "text": "Every experience should reduce cognitive load, build confidence, and open a next step."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Nadia doesn't just design learning — she designs the system around learning. Everything gets better when she's involved.",
+      "name": "Karin Holt",
+      "role": "Chief People Officer, Northstar Learning"
+    },
+    {
+      "quote": "She has a rare ability to see both the learner experience and the operational reality at the same time. That combination is very hard to find.",
+      "name": "Tobias Vree",
+      "role": "VP of Talent, Open Pathways"
+    },
+    {
+      "quote": "The management academy she built is still the program I point to when people ask what great L&D looks like in practice.",
+      "name": "Aisha Mwangi",
+      "role": "Learning Experience Lead, Brightside EdTech"
+    }
+  ]
+}

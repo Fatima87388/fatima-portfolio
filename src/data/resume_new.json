@@ -1,0 +1,686 @@
+{
+  "profile": {
+    "name": "Ambreen Fatima",
+    "role": "Learning & Development | Educational Technology | HR & People Operations",
+    "location": "Saarbruecken, Germany",
+    "availability": "Open to Learning & Development, Educational Technology, HR, People Operations, Instructional Design, Talent, and Research opportunities",
+    "intro": "M.Sc. Educational Technology student with a background in Psychology and experience across Learning & Development, digital learning operations, instructional design, HR processes, talent research, and data analytics. I combine a people-centered, analytical, and technology-oriented approach to learning and HR processes.",
+    "phone": "+49 152 37814215",
+    "email": "fatima.ambreen809@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ambreen-fatima-235ba32a3",
+    "github": "https://github.com/Fatima87388",
+    "stats": [
+      {
+        "value": "M.Sc.",
+        "label": "Educational Technology"
+      },
+      {
+        "value": "7+",
+        "label": "years in education & learning"
+      },
+      {
+        "value": "15+",
+        "label": "learning, HR & research projects"
+      }
+    ]
+  },
+
+  "expertise": [
+    "Learning & Development",
+    "Instructional Design",
+    "Educational Technology",
+    "Digital Learning",
+    "HR & People Operations",
+    "Talent Research & Sourcing",
+    "Learning Analytics",
+    "Behavioral Research"
+  ],
+
+  "skills": [
+    {
+      "category": "Learning & Development",
+      "items": [
+        {
+          "name": "Learning & Development",
+          "level": 92
+        },
+        {
+          "name": "Training Coordination",
+          "level": 90
+        },
+        {
+          "name": "Learning Operations",
+          "level": 90
+        },
+        {
+          "name": "Training Evaluation",
+          "level": 85
+        },
+        {
+          "name": "Employee Development",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "category": "Instructional Design",
+      "items": [
+        {
+          "name": "Instructional Design",
+          "level": 92
+        },
+        {
+          "name": "Learning Experience Design",
+          "level": 90
+        },
+        {
+          "name": "Scenario-Based Learning",
+          "level": 90
+        },
+        {
+          "name": "Microlearning",
+          "level": 88
+        },
+        {
+          "name": "Multimedia Learning",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "category": "Learning Technology",
+      "items": [
+        {
+          "name": "Moodle",
+          "level": 90
+        },
+        {
+          "name": "H5P",
+          "level": 88
+        },
+        {
+          "name": "Articulate Storyline 360",
+          "level": 90
+        },
+        {
+          "name": "Articulate Rise 360",
+          "level": 82
+        },
+        {
+          "name": "Genially",
+          "level": 85
+        },
+        {
+          "name": "Lumi",
+          "level": 85
+        },
+        {
+          "name": "ZEP",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "category": "HR & Talent",
+      "items": [
+        {
+          "name": "Talent Research",
+          "level": 85
+        },
+        {
+          "name": "Candidate Sourcing",
+          "level": 82
+        },
+        {
+          "name": "Boolean Search",
+          "level": 85
+        },
+        {
+          "name": "Talent Mapping",
+          "level": 82
+        },
+        {
+          "name": "People Analytics",
+          "level": 80
+        },
+        {
+          "name": "Stakeholder Communication",
+          "level": 90
+        }
+      ]
+    },
+    {
+      "category": "Data & Analytics",
+      "items": [
+        {
+          "name": "Learning Analytics",
+          "level": 88
+        },
+        {
+          "name": "Microsoft Excel",
+          "level": 90
+        },
+        {
+          "name": "Tableau",
+          "level": 82
+        },
+        {
+          "name": "Python",
+          "level": 78
+        },
+        {
+          "name": "Pandas",
+          "level": 78
+        },
+        {
+          "name": "Data Visualization",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "category": "Research & Psychology",
+      "items": [
+        {
+          "name": "Qualitative Analysis",
+          "level": 90
+        },
+        {
+          "name": "Quantitative Research",
+          "level": 85
+        },
+        {
+          "name": "Experimental Research",
+          "level": 88
+        },
+        {
+          "name": "Behavioral Research",
+          "level": 90
+        },
+        {
+          "name": "Thematic Analysis",
+          "level": 88
+        },
+        {
+          "name": "Statistical Analysis",
+          "level": 82
+        }
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        {
+          "name": "Generative AI",
+          "level": 88
+        },
+        {
+          "name": "AI Prompting",
+          "level": 90
+        },
+        {
+          "name": "Human-AI Interaction",
+          "level": 85
+        },
+        {
+          "name": "Power Automate",
+          "level": 82
+        },
+        {
+          "name": "Workflow Optimization",
+          "level": 85
+        }
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "period": "2025—Present",
+      "company": "Saarland University · Germany",
+      "title": "Digital Learning & Operations Assistant / Learning Support Assistant",
+      "description": "Support the end-to-end coordination of internal learning and development programs, including scheduling, participant communication, logistics, virtual delivery, follow-up, and evaluation. Administer Moodle-based learning environments, coordinate digital learning operations, create learning materials and multimedia content, support virtual and hybrid programs, analyze participation data, and use AI and automation tools to improve workflows.",
+      "tags": [
+        "Learning & Development",
+        "Learning Operations",
+        "Moodle",
+        "Instructional Design",
+        "Digital Learning",
+        "AI Automation"
+      ]
+    },
+    {
+      "period": "2018—2024",
+      "company": "Punjab Education Department · Pakistan",
+      "title": "Educator / Program & Operations Support",
+      "description": "Managed learning activities, schedules, learner communications, administrative records, and operational tasks for large cohorts. Maintained structured learner and performance records, coordinated communication between learners, parents, colleagues and administrators, developed instructional materials, and prepared reports supporting learner progress and educational decision-making.",
+      "tags": [
+        "Education",
+        "Learning Support",
+        "Program Operations",
+        "Learner Management",
+        "Administration"
+      ]
+    },
+    {
+      "period": "2017—2018",
+      "company": "Public College · Pakistan",
+      "title": "Psychology Lecturer",
+      "description": "Delivered psychology instruction using learner-centered teaching strategies, interactive learning activities, and digital educational resources. Applied behavioral analysis and research-methods knowledge to examine learning patterns, performance, and learner feedback while maintaining academic records and assessment documentation.",
+      "tags": [
+        "Psychology",
+        "Higher Education",
+        "Behavioral Research",
+        "Teaching"
+      ]
+    }
+  ],
+
+  "work": [
+    {
+      "year": "2026",
+      "type": "Learning & Development / HR",
+      "title": "From Paper to Digital — Redesigning Employee Onboarding",
+      "summary": "An interactive digital onboarding experience designed to transform paper-based employee onboarding into a structured, engaging, and measurable digital learning journey.",
+      "detail": "Designed an interactive onboarding experience from the perspective of an HR and L&D working student. Applied situated and scenario-based learning, developed interactive hotspots and decision activities, structured progression, knowledge checks, and KPI-based evaluation.",
+      "challenge": "Improve onboarding by reducing scattered communication, printed documentation, manual processes, and limited process tracking while maintaining human connection.",
+      "approach": "Problem analysis → learning objectives → onboarding journey → scenario design → interactive activities → KPI evaluation.",
+      "result": "Interactive digital employee onboarding experience",
+      "color": "lavender",
+      "link": "https://app.lumi.education/run/wq1ebl",
+      "tags": [
+        "L&D",
+        "HR",
+        "Employee Onboarding",
+        "H5P",
+        "Lumi",
+        "Employee Experience"
+      ]
+    },
+    {
+      "year": "2026",
+      "type": "Training Evaluation",
+      "title": "From Feedback to Action — Evaluating Training Effectiveness",
+      "summary": "An L&D analytics project evaluating a half-day employee workshop using the Kirkpatrick four-level evaluation model.",
+      "detail": "Designed an evaluation framework covering Reaction, Learning, Behavior, and Results. Created a structured workbook with raw feedback, Kirkpatrick analysis, dashboard reporting, practical recommendations, and measurable KPIs.",
+      "challenge": "Understand whether training creates meaningful learning, behavioral application, and organizational outcomes.",
+      "approach": "Training evaluation design → feedback collection → Kirkpatrick analysis → dashboard → recommendations.",
+      "result": "Structured training evaluation and KPI framework",
+      "color": "mint",
+      "link": "https://github.com/Fatima87388/project-3-training-evaluation",
+      "tags": [
+        "Kirkpatrick Model",
+        "Training Evaluation",
+        "L&D Analytics",
+        "Google Sheets"
+      ]
+    },
+    {
+      "year": "2026",
+      "type": "Talent Management",
+      "title": "Designing an Employee Development Journey",
+      "summary": "A story-driven employee development experience focused on talent management, career development, and learning & development.",
+      "detail": "Created a fictional employee scenario and designed an interactive development journey connecting career ambition with development needs, SMART goals, learning, practice, feedback, and progress.",
+      "challenge": "Show how employee development can move beyond training toward continuous learning, practice, feedback, and workplace application.",
+      "approach": "Career ambition → development need → SMART goal → learning → practice → feedback → progress.",
+      "result": "Interactive employee development journey",
+      "color": "peach",
+      "link": "https://view.genially.com/6a9fefb327bca74247023d17",
+      "tags": [
+        "Talent Management",
+        "Career Development",
+        "Employee Development",
+        "Genially"
+      ]
+    },
+    {
+      "year": "2026",
+      "type": "Talent Research",
+      "title": "Technology Talent Research & Sourcing Project",
+      "summary": "Independent research into European technology talent pools, engineering skill demand, regional technology hubs, and talent ecosystems.",
+      "detail": "Researched technology talent markets and university talent pipelines using structured online research, Boolean search, LinkedIn, and StepStone research approaches. Developed a framework for talent mapping, candidate research, workforce planning, and talent intelligence.",
+      "challenge": "Understand technology talent ecosystems and identify relevant talent pools and skill profiles.",
+      "approach": "Market research → talent ecosystem analysis → Boolean sourcing → talent mapping → workforce planning.",
+      "result": "Structured technology talent research and sourcing framework",
+      "color": "lavender",
+      "tags": [
+        "Talent Acquisition",
+        "Sourcing",
+        "Boolean Search",
+        "Talent Intelligence",
+        "Workforce Planning"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "Microlearning",
+      "title": "Microlearning Course — AI Prompting",
+      "summary": "An interactive microlearning course focused on effective AI prompting and AI literacy.",
+      "detail": "Designed modular learning content using Moodle and H5P. Developed videos, branching scenarios, quizzes, practice tasks, and interactive activities to encourage active learner participation.",
+      "challenge": "Break an emerging technical topic into concise and practical learning experiences.",
+      "approach": "Content structuring → microlearning design → interactive activities → practice → assessment → LMS implementation.",
+      "result": "Interactive AI prompting microlearning course",
+      "color": "peach",
+      "link": "https://github.com/Fatima87388/Microlearning_Course",
+      "tags": [
+        "AI in Education",
+        "Microlearning",
+        "Moodle",
+        "H5P"
+      ]
+    },
+    {
+      "year": "2026",
+      "type": "Scenario-Based E-Learning",
+      "title": "Fix the Broken Process — Interactive Scenario-Based Digital Learning",
+      "summary": "An interactive e-learning module focused on workplace communication, decision-making, and data-driven problem solving.",
+      "detail": "Created realistic workplace scenarios where learners analyze business process challenges, identify bottlenecks, evaluate actions, and make informed decisions. Developed branching decision flows, multimedia assets, learner documentation, and an onboarding-style instructional video using Camtasia.",
+      "challenge": "Create an active learning experience that connects instructional content with realistic workplace decision-making.",
+      "approach": "Workplace scenario → process analysis → branching decisions → multimedia learning → learner reflection → application.",
+      "result": "Interactive scenario-based workplace learning module",
+      "color": "lavender",
+      "link": "https://share.eu.articulate.com/0Oeff6P8tT695E6w39USX",
+      "tags": [
+        "Articulate Storyline 360",
+        "Scenario-Based Learning",
+        "Camtasia",
+        "E-Learning",
+        "Instructional Design"
+      ]
+    },
+    {
+      "year": "2024—2025",
+      "type": "Virtual Learning Environment",
+      "title": "Virtual Museum on Adaptive Learning",
+      "summary": "An immersive 3D virtual museum exploring adaptive learning and educational technology.",
+      "detail": "Developed themed spaces covering personalization, learner models, and learning tools. Designed step-by-step learning pathways and interactive elements to support exploration in an immersive environment.",
+      "challenge": "Explore how immersive environments can support personalized and adaptive learning experiences.",
+      "approach": "Learning concept → immersive environment → themed spaces → learning pathways → interactive exploration.",
+      "result": "Immersive virtual adaptive-learning environment",
+      "color": "mint",
+      "link": "https://github.com/Fatima87388/Virtual_Museum",
+      "tags": [
+        "Adaptive Learning",
+        "Virtual Learning",
+        "Educational Technology",
+        "ZEP"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "Augmented Reality",
+      "title": "MarketAR — Interactive AR Christmas Market Experience",
+      "summary": "An AR-based Christmas market navigation and learning experience designed using user-centered design principles.",
+      "detail": "Developed an interface prototype for AR-based navigation and learning. Applied user-centered design, usability testing, and iterative improvement to explore navigation, interaction, and user experience.",
+      "challenge": "Explore how augmented reality can create an interactive way for users to navigate and learn within a real-world environment.",
+      "approach": "User research → interface design → prototype → usability testing → iteration.",
+      "result": "Tested interactive AR prototype",
+      "color": "peach",
+      "link": "https://github.com/Fatima87388/AR-Christmas-Markt",
+      "secondaryLink": "https://www.figma.com/design/2Qxb8w9533XvSvy7XcrFCr/MarketAR-Interface-Prototype",
+      "tags": [
+        "AR",
+        "UX",
+        "Figma",
+        "User-Centered Design",
+        "Usability Testing"
+      ]
+    },
+    {
+      "year": "2026",
+      "type": "Learning Analytics",
+      "title": "LMS Migration & Data Analytics Dashboard",
+      "summary": "An end-to-end simulation of a corporate LMS migration and analytics rollout covering data governance, transformation, validation, and dashboard reporting.",
+      "detail": "Created structured datasets for users, courses, and completions. Developed data cleansing logs, source-to-target mapping, validation rules, cleaned import-ready datasets, and executive-oriented Excel dashboards using Pivot Tables and Pivot Charts.",
+      "challenge": "Demonstrate how learning data can be migrated, governed, validated, and transformed into actionable training KPIs.",
+      "approach": "Raw data → data governance → cleansing → transformation → validation → dashboard → KPI reporting.",
+      "result": "Corporate LMS migration and analytics simulation",
+      "color": "mint",
+      "link": "https://github.com/Fatima87388/LMS-Migration-Analytics-Dashboard",
+      "tags": [
+        "LMS",
+        "Data Governance",
+        "ETL",
+        "Excel",
+        "Learning Analytics",
+        "BI"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "Learning Analytics",
+      "title": "Learning Analytics Dashboard — Open University Learning Analytics Dataset",
+      "summary": "A reproducible learning analytics project analyzing learner performance, engagement, completion, dropout, and virtual learning environment activity.",
+      "detail": "Built an ETL workflow using Python and Pandas to process learner, assessment, course, registration, and VLE datasets. Developed exploratory analyses and an interactive Plotly Dash interface for stakeholder-oriented exploration.",
+      "challenge": "Understand learner behavior and identify relationships between engagement, performance, completion, and dropout.",
+      "approach": "Data collection → ETL → exploratory analysis → learner behavior analysis → visualization → dashboard.",
+      "result": "Interactive learner analytics dashboard",
+      "color": "lavender",
+      "link": "https://github.com/Fatima87388/Learning-Analytics",
+      "tags": [
+        "Python",
+        "Pandas",
+        "Learning Analytics",
+        "Plotly",
+        "Dash",
+        "ETL"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "AI in Education",
+      "title": "AI Education & Learning Analytics Dashboard",
+      "summary": "An interactive Tableau dashboard examining the impact and effectiveness of AI-supported learning using meta-analytic educational data.",
+      "detail": "Compared AI-supported learning across K–12 and university education, subject areas, and application modes. Explored relationships between educational context, subject area, AI usage, and learning effectiveness.",
+      "challenge": "Understand how educational context and AI usage relate to learning effectiveness.",
+      "approach": "Data exploration → comparative analysis → behavioral insight → visualization → evidence-based interpretation.",
+      "result": "Interactive AI-supported learning analytics dashboard",
+      "color": "peach",
+      "link": "https://github.com/Fatima87388/AI_Dashboard",
+      "tags": [
+        "Tableau",
+        "AI in Education",
+        "Learning Analytics",
+        "Data Visualization"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "Educational Technology Research",
+      "title": "Didact — A DO-ID-Based Prompting Scaffold for Supporting Human Creativity in Instructional Design",
+      "summary": "An exploratory research project investigating how generative AI can support instructional design while preserving human reflection, decision-making, and creativity.",
+      "detail": "Proposed and evaluated Didact, a prompting scaffold based on the Decision-Oriented Instructional Design model. Conducted a within-subject exploratory study with six participants and analyzed idea diversity, reflection depth, and exploration of alternatives.",
+      "challenge": "Explore how AI can assist instructional design without replacing human reflection and creative decision-making.",
+      "approach": "Research design → DO-ID framework → AI prompting scaffold → participant study → artifact analysis → interpretation.",
+      "result": "Preliminary exploratory evidence for structured AI-assisted instructional design",
+      "color": "lavender",
+      "tags": [
+        "Generative AI",
+        "Instructional Design",
+        "Human-AI Interaction",
+        "Research",
+        "Creativity"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "Multimedia Learning Research",
+      "title": "Effect of Whiteboard Animation Versus Slide Animation on Student Academic Learning Outcomes",
+      "summary": "A quasi-experimental study examining whether instructional video format affects student learning outcomes and perceptions.",
+      "detail": "Compared whiteboard animation with animated slides using matched instructional content, narration, and duration. Included 34 university students and evaluated learning outcomes, interest, novelty, and conventionality using pre-test, post-test, IMI, and UEQ measures.",
+      "challenge": "Examine whether different instructional video formats influence learning outcomes and learner perceptions.",
+      "approach": "Quasi-experimental design → matched instructional materials → pre/post testing → perception measures → statistical analysis.",
+      "result": "Evidence-based evaluation of instructional video formats",
+      "color": "mint",
+      "tags": [
+        "Multimedia Learning",
+        "Research",
+        "Quasi-Experimental Design",
+        "IMI",
+        "UEQ"
+      ]
+    },
+    {
+      "year": "2025",
+      "type": "Experimental Psychology",
+      "title": "Cognitive Suite",
+      "summary": "A psychology-oriented experimental research project developed using PsychoPy.",
+      "detail": "Developed a technology-supported experimental research environment for behavioral and cognitive research.",
+      "challenge": "Apply experimental technology to behavioral and cognitive research.",
+      "approach": "Experimental design → PsychoPy implementation → behavioral research environment.",
+      "result": "Psychology experimental research project",
+      "color": "peach",
+      "link": "https://github.com/Fatima87388/cognitive_suite_psypy",
+      "tags": [
+        "PsychoPy",
+        "Psychology",
+        "Experimental Research",
+        "Cognitive Research"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "period": "2024—Present",
+      "institution": "Saarland University · Germany",
+      "degree": "M.Sc. Educational Technology",
+      "details": "GPA: 1.4. Relevant areas include Learning Systems, Instructional Design, Learning Analytics, Multimedia Learning, Artificial Intelligence, Human-Centered Design, Data Analysis, and Explainable AI in Education."
+    },
+    {
+      "period": "2019—2021",
+      "institution": "Riphah International University · Pakistan",
+      "degree": "M.S. Clinical Psychology",
+      "details": "Thesis: Parental Responsiveness, Psychological Reactance and Moral Disengagement in Adolescents. Focused on behavioral research, psychological assessment, quantitative research methods, and statistical analysis."
+    },
+    {
+      "period": "2017—2019",
+      "institution": "Allama Iqbal Open University · Pakistan",
+      "degree": "B.Ed.",
+      "details": "Focus areas included Curriculum Design, Teaching Practice, and Educational Assessment."
+    },
+    {
+      "period": "2012—2017",
+      "institution": "University of the Punjab · Pakistan",
+      "degree": "B.S. Applied Psychology",
+      "details": "Focus areas included psychology, behavioral science, research methods, assessment, and human behavior."
+    }
+  ],
+
+  "publication": [
+    {
+      "year": "2024",
+      "authors": "Fatima, A., et al.",
+      "title": "The Level of Depression Among University Students: Role of Physical Activity and Daytime Sleepiness",
+      "journal": "Journal of Population Therapeutics and Clinical Pharmacology",
+      "volume": "31(6)",
+      "pages": "2774–2780",
+      "link": "https://www.jptcp.com/index.php/jptcp/article/view/7071/6733"
+    }
+  ],
+
+  "principles": [
+    {
+      "number": "01",
+      "title": "Design around people",
+      "text": "Effective learning and people processes begin with an understanding of how people think, behave, interact, communicate, and develop."
+    },
+    {
+      "number": "02",
+      "title": "Connect technology to purpose",
+      "text": "Technology should serve a clear learning or organizational purpose by making experiences more effective, accessible, interactive, and efficient."
+    },
+    {
+      "number": "03",
+      "title": "Use evidence to improve",
+      "text": "Learning and people decisions become stronger when research, learner behavior, feedback, assessment, and data are used to guide decisions and iteration."
+    }
+  ],
+
+  "tools": {
+    "learning": [
+      "Moodle",
+      "H5P",
+      "Articulate Storyline 360",
+      "Articulate Rise 360",
+      "Genially",
+      "Lumi",
+      "ZEP"
+    ],
+    "data": [
+      "Microsoft Excel",
+      "Pivot Tables",
+      "Pivot Charts",
+      "VLOOKUP",
+      "XLOOKUP",
+      "Tableau",
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Dash",
+      "Jupyter",
+      "Google Sheets"
+    ],
+    "research": [
+      "Qualitative Analysis",
+      "Quantitative Analysis",
+      "Experimental Research",
+      "Quasi-Experimental Design",
+      "Within-Subject Design",
+      "Questionnaire Evaluation",
+      "Behavioral Research",
+      "Thematic Analysis",
+      "Discourse Analysis",
+      "Cohen's Kappa",
+      "Effect-Size Interpretation"
+    ],
+    "ai_automation": [
+      "ChatGPT",
+      "Claude",
+      "Generative AI",
+      "AI Prompting",
+      "Human-AI Interaction",
+      "Power Automate",
+      "AI-Assisted Documentation",
+      "Workflow Optimization"
+    ],
+    "content_collaboration": [
+      "Canva",
+      "Camtasia",
+      "Figma",
+      "Google Workspace",
+      "Microsoft 365",
+      "Microsoft Teams",
+      "Zoom",
+      "Mentimeter",
+      "Padlet",
+      "Notion",
+      "Jira"
+    ]
+  },
+
+  "languages": [
+    {
+      "name": "English",
+      "level": "C1"
+    },
+    {
+      "name": "German",
+      "level": "A2"
+    },
+    {
+      "name": "Urdu",
+      "level": "Native"
+    }
+  ],
+
+  "portfolio": {
+    "github": "https://github.com/Fatima87388",
+    "linkedin": "https://www.linkedin.com/in/ambreen-fatima-235ba32a3"
+  },
+
+  "testimonials": []
+}
